@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: palegoldenrod;
+    margin: 15px;
+}
+.pleadingface{
+    height: 52px;
+}
+.boilerplate{
+    height: 250px;
+    margin-left: 40%;
+    border: 4px solid goldenrod;
+    border-radius: 0px 25px 0px 25px;
+}
